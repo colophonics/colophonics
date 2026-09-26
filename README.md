@@ -29,6 +29,5 @@ All Colophon species are presently listed as endangered and Colophon primosi as 
 [4](https://en.wikipedia.org/wiki/Colophon_(beetle))
 
 
-## Colophonic 
-1. *adj.* Of or relating to a colophon.
-2. *adj.* Of or relating to colophony (rosin).
+## Colophons 
+1. *noun.* Plural form of *colophon*.
