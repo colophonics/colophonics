@@ -1,5 +1,3 @@
-Hi, call me rosin
-
-Many of these repositories are write-only mirrors from my [sourcehut](https://git.sr.ht/~rosin/)
-
-More _may_ be coming from my [gitlab](https://gitlab.com/somniamble)
+# Rosin (/ˈrɒzɪn/), 
+also known as colophony or Greek pitch (Latin: pix graeca), is a resinous material obtained from pine trees and other plants, mostly conifers. The primary components of rosin are diterpenoids, i.e., C20 carboxylic acids. Rosin consists mainly of resin acids, especially abietic acid. Rosin often appears as a semi-transparent, brittle substance that ranges in color from yellow to black and melts at stove-top temperatures. In addition to industrial applications such as in varnishes, adhesives, and sealing wax, rosin is used with string instruments on the bow hair to enhance its ability to grip and sound the strings, and it provides grip in various sports and activities. Rosin also serves as an ingredient in medicinal and pharmaceutical formulations and can cause contact dermatitis or occupational asthma in sensitive individuals. It is an FDA approved food additive.
+[Wikipedia](https://en.wikipedia.org/wiki/Rosin)
