@@ -30,4 +30,7 @@ All Colophon species are presently listed as endangered and Colophon primosi as 
 
 
 ## Colophons 
-1. *noun.* Plural form of *colophon*.
+*n. pl.* plural of colophon.
+
+## Colophon's
+*poss.* of or relating to Rosin.
