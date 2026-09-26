@@ -11,9 +11,9 @@ The city's name comes from the word κολοφών, "summit", (which is also the
 [2](https://en.wikipedia.org/wiki/Colophon_(city))
 
 ## Colophon (publishing)
-In publishing, a colophon (/ˈkɒləfən, -fɒn/)[1] is a brief statement containing information about the publication of a book such as an "imprint" (the place of publication, the publisher, ISBN and the date of publication).
+In publishing, a colophon (/ˈkɒləfən, -fɒn/) is a brief statement containing information about the publication of a book such as an "imprint" (the place of publication, the publisher, ISBN and the date of publication).
 
-A colophon may include the device (logo)  of a printer or publisher. Colophons are traditionally printed at the ends of books (see History below for the origin of the word), but sometimes the same information appears elsewhere (when it may still be referred to as colophon) and many modern (post-1800) books bear this information on the title page or on the verso of the title leaf, which is sometimes called a biblio page or (when bearing copyright data) the copyright page.
+A colophon may include the device (logo)  of a printer or publisher. Colophons are traditionally printed at the ends of books, but sometimes the same information appears elsewhere (when it may still be referred to as colophon) and many modern (post-1800) books bear this information on the title page or on the verso of the title leaf, which is sometimes called a biblio page or (when bearing copyright data) the copyright page.
 [3](https://en.wikipedia.org/wiki/Colophon_(publishing))
 
 ## Colophon (beetle)
@@ -30,5 +30,5 @@ All Colophon species are presently listed as endangered and Colophon primosi as 
 
 
 ## Colophonic 
-1. *noun.* Of or relating to a colophon.
-2. *noun.* Of or relating to colophony (rosin).
+1. *adj.* Of or relating to a colophon.
+2. *adj.* Of or relating to colophony (rosin).
